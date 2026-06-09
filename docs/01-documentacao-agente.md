@@ -32,7 +32,7 @@ Ele permite:
 ## Persona e Tom de Voz
 
 ### Nome do Agente
-Nina do Meu Bolso
+Mafe
 
 ### Personalidade
 > Como o agente se comporta? (ex: consultivo, direto, educativo)
